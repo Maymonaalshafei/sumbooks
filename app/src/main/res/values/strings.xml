@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SumBooks</string>
+    <string name="first_background">first background</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="insert_your_name">Insert Your Name</string>
+    <string name="insert_your_password">Insert Your Password</string>
+    <string name="login">Login</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="you_don_t_have_account_yet_register_here">You don\'t have account yet? Register here</string>
+    <string name="required">required</string>
+    <string name="sign_up">Sign Up</string>
+
+    <string name="todo">TODO</string>
+    <string name="you_already_have_accont">You already have account?</string>
+    <string name="favorite">favorite</string>
+    <string name="settings">settings</string>
+    <string name="books">books</string>
+    <string name="search_here">Search Here</string>
+    <string name="welcome">Welcome!</string>
+    <string name="bookname">BookName</string>
+    <string name="toto">TODO</string>
+
+</resources>
